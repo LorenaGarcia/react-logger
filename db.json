@@ -8,11 +8,18 @@
       "id": 1
     },
     {
-      "message": "Hard drive failed in workstation 002",
+      "id": 2,
+      "message": "Changed network card on server 002",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-10-04T04:28:02.144Z"
+    },
+    {
+      "id": 3,
+      "message": "Changed network card on server 004",
       "attention": true,
-      "tech": "John Doe",
-      "date": "2019-09-29T00:01:13.125Z",
-      "id": 2
+      "tech": "Sam Smith",
+      "date": "2019-10-04T04:27:52.646Z"
     }
   ],
   "techs": [
