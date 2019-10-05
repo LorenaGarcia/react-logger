@@ -9,17 +9,17 @@
     },
     {
       "id": 2,
-      "message": "Changed network card on server 002",
+      "message": "Changed card on server 002",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2019-10-04T04:28:02.144Z"
+      "date": "2019-10-05T17:24:45.971Z"
     },
     {
       "id": 3,
-      "message": "Changed network card on server 004",
+      "message": "Changed card on server 004",
       "attention": true,
       "tech": "Sam Smith",
-      "date": "2019-10-04T04:27:52.646Z"
+      "date": "2019-10-05T17:24:51.485Z"
     }
   ],
   "techs": [
